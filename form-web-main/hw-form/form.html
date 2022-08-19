@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>form</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="a">
+        <h1 id="b">Form Fill Up</h1>
+        <form action="server\php" method="get">
+            <input type="text" placeholder="Enter your name">
+            <br>
+            <br>
+            <label >Games you play</label>
+            <br>
+            <input type="checkbox"  name="games[]"  value="dota">dota2
+            <br>
+            <input type="checkbox" name="game[]" value="csgo">csgo
+            <br>
+            <input type="checkbox" name="game[]" value="valorant">valorant
+            <br>
+            <input type="checkbox" name="game[]" value="gtav">gtav
+            <br>
+            <input type="checkbox" name="game[]" value="apex legend">apex legend
+            <br>
+            <br>
+            <button type="submit">submit</button>
+        </form>
+        </div>
+    </body>
+</html>
