@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header
+{
+    background-color: rgb(217, 243, 255);
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    z-index: -1;
+}
+.vi
+{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+
+
+
+
+/*.nav{
+    margin: 20px;  
+    margin-top: 20px;
+    padding: 30px 10px;
+    height: 40px;
+    width: 95%;
+    background-color: aqua;
+    color: #000;
+}*/
+
+
+ul{
+    list-style-type: none;
+    float: right;
+    margin-top: 10px;
+    
+}
+ul li{
+    display: inline-block;
+    padding: 30px;
+}
+li a{
+    text-decoration: none;
+    color: rgb(63, 78, 78);
+    padding: 5px 20px;
+    border: 2px solid transparent;
+
+}
+.nav li a:hover{
+    background-color: azure;
+    color: #000;
+}
+.img img{
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    
+    position: relative;
+}
+.para
+{
+    margin: 20px;
+    width: 97%;
+    height: 400px;
+    background-color: rgba(201, 245, 245, 0.233);
+    border: 1px solid black;
+}
+#myHeader {
+    
+    color: black;
+   margin: 20px;
+    text-align: center;
+    font-family: fantasy;
+  }
+#myPara{
+    
+    margin: 20px
+}
+#mypara2{
+    
+    margin: 20px;
+}
+#img{
+    width: 150px;
+    height: 75px;
+    position: relative;
+    margin: 5px;
+    background-size: cover;
+    left: 40px;
+}
+#footer{
+   
+    margin-left: 50px;
+
+}
+#mar
+{
+    margin: 15px;  
+}
