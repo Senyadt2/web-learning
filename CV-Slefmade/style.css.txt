@@ -27,16 +27,17 @@ ul li a{
     text-decoration: none;
     font-family: serif;
     color: black;
-  transition: 0.5 easy-in;
+  transition: 1s ease-in-out;
+  border-bottom:1px inset #272727;
   
 }
 ul li a:hover{
     
     background-color: #272727;
-    border-radius: 20px;
+    border-radius: 10px;
 transition: 0.5s ease-in-out;
-  font-size: 20px;
-  padding: 1px;
+  font-size: 17px;
+
   color: white;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 } 
