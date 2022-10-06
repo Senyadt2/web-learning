@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+
+  <!DOCTYPE html>
+  <html>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Tero cv</title>
+  <link rel="stylesheet" href="style.css">
+
+  <body>
+    <div class="section">
+      <ul>
+        <li><a href="https://cv.rikintuladhar.repl.co">Home</a></li>
+        <li><a href="https://www.instagram.com/rikinsnya/">About</a></li>
+        <li><a href="https://discord.gg/nHvQ2RhutZ">More</a></li>
+      </ul>
+    </div>
+
+    <div class="cv">
+      <h1>Rikin Tuladhar</h1>
+
+      <p>Game name <span style="color: #272727;">"Senya"</p>
+      <p>9869562356</p>
+      <p>rikin.tuladhar@gmail.com</p>
+      <br>
+      <p>...</p>
+      <br>
+      <hr>
+      <br>
+      <h2>Skills</h2>
+      <br>
+      <p>C,HTML,CSS,JAVA,JS </p>
+      <br>
+      <hr><br>
+      <h2>Work History</h2><br>
+      <p>NONE </p>
+      <br>
+      <hr>
+      <h2>Education</h2>
+      <br>
+      <p>Currently Studying BCA(Bachelors In Computer Application)</p>
+      <br>
+
+      <a href="https://www.youtube.com/watch?v=0ElVqAgy4w8" style="text-decoration: none;border: 1px solid 
+ #272727;border-radius: 25px;padding:10px" id="hov">Enter on your own risk</a>
+
+
+
+    </div>
+    <script>
+
+    </script>
+  </body>
+
+
+  </html>
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script>
+</body>
+
+</html>
